@@ -1,4 +1,4 @@
-# React Starter
+WIP practice app for react and redux
 
 ## Installation
 
@@ -10,6 +10,3 @@ open http://localhost:3000
 
 
 ------------------
-
-Simplified version of [react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate) for the
-traineeship program.
